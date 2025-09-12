@@ -1,6 +1,6 @@
 # WEB Devlopment with MERN Stack
 
-[Project_link](https://chandradeepkumarraj.github.io/web_dev_assignment/index.html)
+#  [Live_Project_link](https://chandradeepkumarraj.github.io/web_dev_assignment/index.html)
 
 ## Assignment 1 
 - Created an static website for College fest Registration 
