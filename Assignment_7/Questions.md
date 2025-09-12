@@ -1,15 +1,15 @@
 ## Question 1 (CommonJS Exports)
-'''
+
 Create a file named mathCommon.js. 
 
 Export two functions using CommonJS: add(a, b) → returns sum multiply(a, b) → returns product
 
 Create another file appCommon.js Import functions from mathCommon.js Use them and print results in the console.
 
-'''
+
 ## Question 2 (ES6 Exports) 
 
-'''
+
 Create a file named mathES6.js.
 
 Export two functions using ES6 export: subtract(a, b) → returns difference divide(a, b) → returns quotient
@@ -18,10 +18,10 @@ Create another file appES6.js. Import functions from mathES6.js. Use them and pr
 
 (Hint: add "type": "module" in package.json to use ES6 modules.)
 
-'''
+
 
 ## Question 3 (fs Module – File Manager)
-'''
+
 
 Create a file fileManager.js Export the following functions (CommonJS or ES6): 
 
@@ -44,14 +44,14 @@ Append " - This is an appended note."
 Read and print updated content.
 
 ## Question 4 (File Copy)
-'''
+
 Write a program to copy the contents of a file named source.txt to a new file named destination.txt.
 
 Before copying, check if source.txt exists.
 
 If it doesn’t exist, print a message "Source file does not exist."
 
-'''
+
 ## Question 5 (File Merge)
 
 Write a program to merge the contents of two files, file1.txt and file2.txt, into a new file named merged.txt.
